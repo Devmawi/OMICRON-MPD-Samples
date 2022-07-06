@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMICRON.MpdForms", "OMICRON.MpdForms\OMICRON.MpdForms.csproj", "{4EB94D36-D668-4499-85E1-8ABFFD12C26E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EB94D36-D668-4499-85E1-8ABFFD12C26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB94D36-D668-4499-85E1-8ABFFD12C26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB94D36-D668-4499-85E1-8ABFFD12C26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB94D36-D668-4499-85E1-8ABFFD12C26E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {843B1BF7-5743-4F3B-9638-909B8CC91D39}
+	EndGlobalSection
+EndGlobal
